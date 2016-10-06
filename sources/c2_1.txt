@@ -1,0 +1,65 @@
+@C2.1 - Die Familie
+1|the family|die Familie, die Familien
+1|the husband/man|der Mann, die Ma(..)nner
+1|the wife/woman|die Frau, die Frauen
+1|the parents|die Eltern
+1|the father|der Vater, die Va(..)ter
+1|the mother|die Mutter, die Mu(..)tter
+1|the child|das Kind, die Kinder
+1|the grandchild|das Enkelkind, die Enkelkinder
+1|the son|der Sohn, die So(..)hne
+1|the brother|der Bruder, die Bru(..)der
+1|the grandson|der Enkel, die Enkel
+1|the daughter|die Tochter, die To(..)chter
+1|the sister|die Schwester, die Schwestern
+1|the granddaugter|die Enkelin, die Enkelinnen
+@C2.1 - Das Essen
+1|the cheese|der Ka(..)se
+1|the meat|das Fleisch
+1|the vegetables|das Gemu(..)se
+1|the fruit|das Obst
+@C2.1 - Verben
+1|to need|brauchen
+1|to eat|essen (isst)
+1|to have|haben
+1|to know (acquaintance)|kennen
+1|to read|lesen (liest)
+1|to mean|meinen
+1|to take|nehmen (nimmt)
+1|to see|sehen (sieht)
+1|to speak|sprechen (spricht)
+1|to seek|suchen
+1|to know (fact)|wissen (weiB)
+@C2.1 - Substantive
+1|the article|der Artikel, die Artikel
+1|the friend|der Freund, die Freunde
+1|the house|das Haus, die Ha(..)user
+1|the semester|das Semester, die Semester
+1|the room|das Zimmer, die Zimmer
+1|the question|die Frage, die Fragen
+1|the newspaper|die Zeitung, die Zeitungen
+@C2.1 - Adjektive und Adverbien
+1|over there|(da) dru(..)ben
+1|there|dort
+1|free / unoccupied|frei
+1|gladly|gern(e)
+1|big|groB
+1|only|nur
+1|certain(ly) / sure(ly)|sicher
+@C2.1 - Andere Vokeln
+1|oh / ah|ach
+1|you're welcome|bitte sehr
+1|with|mit
+1|about|u(..)ber
+1|whom?|wen?
+1|whose?|wessen?
+@C2.1 - Nu(..)tzliche Ausdru(..)cke
+1|(That's) right.|(Das) simmt.
+1|I'm sorry.|Es tut mir leid.
+1|Fantastic!|Fantastisch!
+1|next (...)|na(..)chstes
+1|Fine. / It's okay. / No problem.|Schon gut.
+1|Many thanks. / Thanks a lot.|Vielen Dank!
+@C2.1 - Gegensa(..)tze
+1|the answer|die Antwort, die Antworten
+
